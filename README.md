@@ -1,4 +1,4 @@
-# -Building-AI-Solution-for-Assisting-Visually-Impaired-Individuals
+# Building-AI-Solution-for-Assisting-Visually-Impaired-Individuals
 This project helps visually impaired individuals by offering:
 
 🖼️ Real-time scene analysis for understanding surroundings.
